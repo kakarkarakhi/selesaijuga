@@ -1,0 +1,201 @@
+Date,Platform,Sentiment,Location,Engagements,Media_Type,Influencer_Brand,Post_Type
+2024-02-04,YouTube,Positive,Denpasar,16841,Video,@kulinerhits | FrostiQ,Collab
+2024-02-09,TikTok,Neutral,Bandung,5189,Video,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-10,TikTok,Positive,Medan,3154,Text,@kulinerhits | FrostiQ,Product Launch
+2024-02-07,X/Twitter,Neutral,Jakarta,7035,Text,@kulinerhits | FrostiQ,Collab
+2024-02-14,YouTube,Negative,Makassar,987,Carousel,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-11,Instagram,Positive,Medan,9139,Carousel,@kulinerhits | FrostiQ,Behind the Scenes
+2024-02-13,X/Twitter,Neutral,Medan,14419,Text,@snackattack | FrostiQ,Review
+2024-02-25,Instagram,Positive,Bandung,3856,Video,@genzfoodie | FrostiQ,Review
+2024-02-26,TikTok,Positive,Surabaya,13117,Image,@genzfoodie | FrostiQ,Promo
+2024-02-26,YouTube,Positive,Surabaya,6948,Image,@snackattack | FrostiQ,Behind the Scenes
+2024-02-08,YouTube,Positive,Bandung,18093,Image,@tastebuds.id | FrostiQ,Behind the Scenes
+2024-02-28,YouTube,Neutral,Yogyakarta,2131,Text,@snackattack | FrostiQ,Behind the Scenes
+2024-02-28,Instagram,Neutral,Bandung,8263,Carousel,@kulinerhits | FrostiQ,Promo
+2024-02-12,YouTube,Positive,Yogyakarta,3857,Text,@snackattack | FrostiQ,Review
+2024-02-27,TikTok,Positive,Medan,5803,Carousel,@genzfoodie | FrostiQ,Promo
+2024-02-22,TikTok,Positive,Medan,9872,Image,@genzfoodie | FrostiQ,Review
+2024-02-11,Instagram,Positive,Medan,19134,Text,@snackattack | FrostiQ,Review
+2024-02-06,Instagram,Positive,Bandung,13648,Carousel,@genzfoodie | FrostiQ,Review
+2024-02-27,X/Twitter,Positive,Bandung,13969,Carousel,@snackattack | FrostiQ,Behind the Scenes
+2024-02-12,TikTok,Neutral,Yogyakarta,3610,Text,@snackattack | FrostiQ,Product Launch
+2024-02-12,Instagram,Positive,Bandung,3929,Video,@kulinerhits | FrostiQ,Behind the Scenes
+2024-02-15,X/Twitter,Negative,Yogyakarta,918,Video,@drinkculture | FrostiQ,Product Launch
+2024-02-03,TikTok,Positive,Denpasar,2537,Image,@kulinerhits | FrostiQ,Review
+2024-02-13,YouTube,Neutral,Yogyakarta,8392,Image,@snackattack | FrostiQ,Collab
+2024-02-16,Instagram,Neutral,Bandung,15516,Text,@tastebuds.id | FrostiQ,Promo
+2024-02-09,X/Twitter,Positive,Jakarta,3924,Carousel,@tastebuds.id | FrostiQ,Promo
+2024-02-20,YouTube,Positive,Yogyakarta,7442,Text,@kulinerhits | FrostiQ,Review
+2024-02-03,YouTube,Neutral,Jakarta,9504,Text,@snackattack | FrostiQ,Behind the Scenes
+2024-02-12,X/Twitter,Negative,Yogyakarta,14361,Carousel,@snackattack | FrostiQ,Behind the Scenes
+2024-02-09,X/Twitter,Positive,Makassar,13621,Image,@drinkculture | FrostiQ,Product Launch
+2024-02-17,Instagram,Negative,Makassar,6518,Image,@tastebuds.id | FrostiQ,Promo
+2024-02-15,X/Twitter,Positive,Makassar,12691,Carousel,@snackattack | FrostiQ,Behind the Scenes
+2024-02-12,X/Twitter,Positive,Medan,4367,Video,@genzfoodie | FrostiQ,Product Launch
+2024-02-22,X/Twitter,Neutral,Yogyakarta,17254,Image,@snackattack | FrostiQ,Behind the Scenes
+2024-02-03,X/Twitter,Positive,Yogyakarta,4440,Video,@snackattack | FrostiQ,Promo
+2024-02-07,TikTok,Positive,Makassar,10932,Video,@tastebuds.id | FrostiQ,Promo
+2024-02-04,TikTok,Positive,Bandung,7384,Video,@tastebuds.id | FrostiQ,Behind the Scenes
+2024-02-07,X/Twitter,Neutral,Bandung,1780,Text,@snackattack | FrostiQ,Product Launch
+2024-02-11,X/Twitter,Negative,Medan,6503,Video,@snackattack | FrostiQ,Promo
+2024-02-13,Instagram,Neutral,Jakarta,3087,Image,@genzfoodie | FrostiQ,Promo
+2024-02-18,X/Twitter,Neutral,Jakarta,567,Carousel,@genzfoodie | FrostiQ,Product Launch
+2024-02-21,TikTok,Positive,Bandung,5244,Text,@kulinerhits | FrostiQ,Promo
+2024-02-01,Instagram,Positive,Jakarta,2123,Image,@genzfoodie | FrostiQ,Promo
+2024-02-04,Instagram,Positive,Medan,13187,Image,@tastebuds.id | FrostiQ,Promo
+2024-02-12,X/Twitter,Positive,Surabaya,18195,Carousel,@kulinerhits | FrostiQ,Review
+2024-02-17,Instagram,Positive,Yogyakarta,9342,Carousel,@snackattack | FrostiQ,Promo
+2024-03-01,X/Twitter,Positive,Bandung,4530,Text,@genzfoodie | FrostiQ,Collab
+2024-02-01,TikTok,Positive,Makassar,19477,Carousel,@snackattack | FrostiQ,Behind the Scenes
+2024-02-27,X/Twitter,Positive,Yogyakarta,15444,Image,@snackattack | FrostiQ,Collab
+2024-02-29,TikTok,Positive,Jakarta,3372,Text,@tastebuds.id | FrostiQ,Behind the Scenes
+2024-02-29,X/Twitter,Neutral,Jakarta,4125,Image,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-23,YouTube,Positive,Bandung,10579,Image,@drinkculture | FrostiQ,Behind the Scenes
+2024-02-06,X/Twitter,Neutral,Surabaya,4455,Text,@snackattack | FrostiQ,Product Launch
+2024-02-01,YouTube,Positive,Makassar,10315,Text,@drinkculture | FrostiQ,Product Launch
+2024-02-26,TikTok,Positive,Bandung,16635,Text,@kulinerhits | FrostiQ,Behind the Scenes
+2024-02-28,YouTube,Neutral,Makassar,18687,Carousel,@genzfoodie | FrostiQ,Product Launch
+2024-02-20,YouTube,Neutral,Medan,1040,Image,@drinkculture | FrostiQ,Behind the Scenes
+2024-02-04,TikTok,Positive,Jakarta,13298,Carousel,@genzfoodie | FrostiQ,Promo
+2024-02-21,YouTube,Positive,Denpasar,1090,Image,@genzfoodie | FrostiQ,Collab
+2024-02-26,X/Twitter,Positive,Bandung,11766,Carousel,@drinkculture | FrostiQ,Collab
+2024-02-29,Instagram,Positive,Bandung,15623,Carousel,@genzfoodie | FrostiQ,Collab
+2024-03-01,YouTube,Positive,Medan,19559,Carousel,@genzfoodie | FrostiQ,Promo
+2024-02-14,TikTok,Negative,Yogyakarta,9761,Video,@drinkculture | FrostiQ,Product Launch
+2024-02-19,X/Twitter,Positive,Surabaya,3718,Image,@genzfoodie | FrostiQ,Collab
+2024-02-01,X/Twitter,Positive,Makassar,2358,Text,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-02,X/Twitter,Neutral,Surabaya,13778,Carousel,@kulinerhits | FrostiQ,Collab
+2024-02-05,YouTube,Neutral,Jakarta,5915,Text,@snackattack | FrostiQ,Review
+2024-02-09,Instagram,Positive,Surabaya,19484,Text,@tastebuds.id | FrostiQ,Product Launch
+2024-02-02,YouTube,Negative,Surabaya,1260,Carousel,@snackattack | FrostiQ,Collab
+2024-02-03,YouTube,Negative,Makassar,10543,Text,@kulinerhits | FrostiQ,Promo
+2024-02-14,TikTok,Neutral,Yogyakarta,8490,Carousel,@drinkculture | FrostiQ,Promo
+2024-02-11,TikTok,Positive,Jakarta,8462,Video,@kulinerhits | FrostiQ,Promo
+2024-02-18,YouTube,Neutral,Bandung,948,Video,@drinkculture | FrostiQ,Promo
+2024-02-23,Instagram,Positive,Medan,16059,Text,@kulinerhits | FrostiQ,Collab
+2024-02-04,X/Twitter,Positive,Yogyakarta,7794,Text,@kulinerhits | FrostiQ,Review
+2024-02-26,X/Twitter,Positive,Jakarta,2546,Video,@tastebuds.id | FrostiQ,Review
+2024-02-20,Instagram,Neutral,Yogyakarta,17463,Text,@drinkculture | FrostiQ,Promo
+2024-02-01,X/Twitter,Negative,Yogyakarta,16360,Image,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-16,X/Twitter,Neutral,Jakarta,19440,Image,@snackattack | FrostiQ,Promo
+2024-03-01,X/Twitter,Positive,Surabaya,14664,Text,@snackattack | FrostiQ,Collab
+2024-02-14,YouTube,Positive,Denpasar,4958,Video,@drinkculture | FrostiQ,Review
+2024-02-05,Instagram,Positive,Bandung,13630,Carousel,@drinkculture | FrostiQ,Collab
+2024-02-01,YouTube,Neutral,Yogyakarta,1699,Video,@drinkculture | FrostiQ,Promo
+2024-02-17,TikTok,Positive,Denpasar,2052,Video,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-08,TikTok,Positive,Bandung,12279,Video,@snackattack | FrostiQ,Promo
+2024-02-03,YouTube,Neutral,Surabaya,7876,Image,@snackattack | FrostiQ,Behind the Scenes
+2024-02-14,YouTube,Positive,Makassar,17716,Video,@drinkculture | FrostiQ,Collab
+2024-02-19,Instagram,Neutral,Makassar,8755,Image,@tastebuds.id | FrostiQ,Behind the Scenes
+2024-02-09,Instagram,Positive,Yogyakarta,2378,Video,@tastebuds.id | FrostiQ,Review
+2024-02-19,TikTok,Neutral,Yogyakarta,12348,Video,@snackattack | FrostiQ,Collab
+2024-02-02,Instagram,Neutral,Yogyakarta,3054,Image,@genzfoodie | FrostiQ,Review
+2024-02-14,Instagram,Positive,Surabaya,5564,Text,@tastebuds.id | FrostiQ,Review
+2024-02-10,TikTok,Positive,Surabaya,924,Carousel,@tastebuds.id | FrostiQ,Promo
+2024-02-12,Instagram,Positive,Denpasar,4962,Text,@drinkculture | FrostiQ,Behind the Scenes
+2024-02-19,TikTok,Positive,Surabaya,6273,Carousel,@snackattack | FrostiQ,Review
+2024-02-12,X/Twitter,Neutral,Surabaya,16698,Video,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-12,X/Twitter,Neutral,Makassar,4654,Video,@kulinerhits | FrostiQ,Behind the Scenes
+2024-02-17,TikTok,Positive,Denpasar,15941,Carousel,@genzfoodie | FrostiQ,Product Launch
+2024-02-10,X/Twitter,Positive,Bandung,5369,Text,@tastebuds.id | FrostiQ,Product Launch
+2024-02-04,TikTok,Positive,Denpasar,1728,Text,@kulinerhits | FrostiQ,Collab
+2024-02-15,YouTube,Positive,Surabaya,2702,Carousel,@kulinerhits | FrostiQ,Product Launch
+2024-02-21,Instagram,Neutral,Surabaya,18676,Video,@genzfoodie | FrostiQ,Promo
+2024-02-06,X/Twitter,Positive,Yogyakarta,4960,Carousel,@genzfoodie | FrostiQ,Promo
+2024-02-05,X/Twitter,Neutral,Yogyakarta,19375,Video,@drinkculture | FrostiQ,Product Launch
+2024-02-29,YouTube,Negative,Jakarta,9536,Video,@drinkculture | FrostiQ,Promo
+2024-02-05,X/Twitter,Positive,Jakarta,11652,Image,@kulinerhits | FrostiQ,Review
+2024-02-07,Instagram,Positive,Yogyakarta,6223,Video,@kulinerhits | FrostiQ,Behind the Scenes
+2024-02-02,X/Twitter,Neutral,Denpasar,2549,Image,@drinkculture | FrostiQ,Product Launch
+2024-02-19,Instagram,Negative,Bandung,18132,Video,@drinkculture | FrostiQ,Product Launch
+2024-02-08,X/Twitter,Positive,Yogyakarta,13954,Carousel,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-19,YouTube,Positive,Denpasar,1952,Video,@drinkculture | FrostiQ,Review
+2024-02-11,YouTube,Positive,Surabaya,19429,Image,@kulinerhits | FrostiQ,Promo
+2024-02-27,Instagram,Positive,Surabaya,2407,Carousel,@kulinerhits | FrostiQ,Product Launch
+2024-02-23,Instagram,Neutral,Bandung,6219,Video,@kulinerhits | FrostiQ,Promo
+2024-02-13,YouTube,Positive,Bandung,7724,Image,@kulinerhits | FrostiQ,Product Launch
+2024-02-24,Instagram,Neutral,Yogyakarta,3412,Video,@drinkculture | FrostiQ,Behind the Scenes
+2024-02-29,TikTok,Neutral,Denpasar,16324,Carousel,@genzfoodie | FrostiQ,Product Launch
+2024-02-17,TikTok,Positive,Surabaya,5289,Video,@snackattack | FrostiQ,Collab
+2024-02-22,YouTube,Positive,Denpasar,15624,Text,@drinkculture | FrostiQ,Collab
+2024-02-22,YouTube,Neutral,Jakarta,9548,Text,@kulinerhits | FrostiQ,Review
+2024-02-01,TikTok,Positive,Bandung,7417,Text,@genzfoodie | FrostiQ,Product Launch
+2024-02-11,X/Twitter,Positive,Denpasar,12515,Carousel,@snackattack | FrostiQ,Product Launch
+2024-02-10,Instagram,Neutral,Makassar,12462,Video,@genzfoodie | FrostiQ,Product Launch
+2024-02-26,Instagram,Positive,Denpasar,10502,Video,@kulinerhits | FrostiQ,Product Launch
+2024-02-13,YouTube,Positive,Denpasar,9914,Carousel,@snackattack | FrostiQ,Behind the Scenes
+2024-02-10,TikTok,Positive,Yogyakarta,14934,Carousel,@snackattack | FrostiQ,Product Launch
+2024-02-14,X/Twitter,Positive,Makassar,3716,Image,@tastebuds.id | FrostiQ,Product Launch
+2024-02-01,X/Twitter,Positive,Denpasar,11230,Video,@tastebuds.id | FrostiQ,Review
+2024-02-09,X/Twitter,Positive,Makassar,11910,Carousel,@drinkculture | FrostiQ,Collab
+2024-02-28,X/Twitter,Positive,Surabaya,11973,Image,@genzfoodie | FrostiQ,Collab
+2024-02-01,Instagram,Negative,Surabaya,17482,Carousel,@genzfoodie | FrostiQ,Review
+2024-02-03,Instagram,Neutral,Bandung,18132,Text,@tastebuds.id | FrostiQ,Product Launch
+2024-03-02,TikTok,Positive,Jakarta,15524,Text,@kulinerhits | FrostiQ,Promo
+2024-02-26,TikTok,Positive,Medan,14350,Video,@drinkculture | FrostiQ,Review
+2024-02-14,YouTube,Positive,Bandung,5059,Carousel,@snackattack | FrostiQ,Collab
+2024-02-25,Instagram,Negative,Surabaya,14981,Carousel,@kulinerhits | FrostiQ,Promo
+2024-03-02,YouTube,Positive,Bandung,12915,Image,@kulinerhits | FrostiQ,Behind the Scenes
+2024-02-25,Instagram,Negative,Jakarta,10671,Video,@tastebuds.id | FrostiQ,Product Launch
+2024-02-20,TikTok,Negative,Medan,1506,Video,@drinkculture | FrostiQ,Review
+2024-02-17,Instagram,Neutral,Yogyakarta,7206,Video,@kulinerhits | FrostiQ,Collab
+2024-02-12,Instagram,Neutral,Jakarta,3951,Carousel,@tastebuds.id | FrostiQ,Collab
+2024-02-06,X/Twitter,Positive,Yogyakarta,9571,Video,@snackattack | FrostiQ,Behind the Scenes
+2024-02-12,TikTok,Positive,Makassar,9889,Carousel,@tastebuds.id | FrostiQ,Review
+2024-02-11,Instagram,Neutral,Yogyakarta,2682,Image,@tastebuds.id | FrostiQ,Product Launch
+2024-02-18,TikTok,Neutral,Surabaya,855,Text,@genzfoodie | FrostiQ,Product Launch
+2024-02-12,YouTube,Positive,Yogyakarta,10793,Text,@drinkculture | FrostiQ,Collab
+2024-02-21,TikTok,Neutral,Surabaya,6031,Video,@genzfoodie | FrostiQ,Promo
+2024-02-22,X/Twitter,Negative,Surabaya,8286,Video,@snackattack | FrostiQ,Promo
+2024-02-28,YouTube,Negative,Jakarta,9144,Image,@genzfoodie | FrostiQ,Promo
+2024-02-13,X/Twitter,Negative,Makassar,14135,Carousel,@genzfoodie | FrostiQ,Review
+2024-02-01,YouTube,Negative,Jakarta,16850,Text,@tastebuds.id | FrostiQ,Promo
+2024-02-09,Instagram,Positive,Surabaya,19610,Text,@kulinerhits | FrostiQ,Product Launch
+2024-03-02,Instagram,Positive,Surabaya,18570,Text,@genzfoodie | FrostiQ,Promo
+2024-02-28,TikTok,Neutral,Denpasar,14119,Carousel,@snackattack | FrostiQ,Promo
+2024-02-07,Instagram,Neutral,Denpasar,8957,Carousel,@drinkculture | FrostiQ,Product Launch
+2024-02-25,X/Twitter,Neutral,Denpasar,17744,Image,@kulinerhits | FrostiQ,Behind the Scenes
+2024-02-29,TikTok,Positive,Yogyakarta,8307,Image,@drinkculture | FrostiQ,Product Launch
+2024-02-22,YouTube,Neutral,Bandung,6495,Text,@drinkculture | FrostiQ,Review
+2024-02-19,TikTok,Neutral,Medan,14749,Video,@snackattack | FrostiQ,Behind the Scenes
+2024-02-22,X/Twitter,Negative,Yogyakarta,9921,Video,@snackattack | FrostiQ,Collab
+2024-02-16,Instagram,Neutral,Makassar,15988,Carousel,@snackattack | FrostiQ,Review
+2024-02-13,Instagram,Positive,Jakarta,19089,Carousel,@snackattack | FrostiQ,Collab
+2024-02-15,Instagram,Neutral,Surabaya,11463,Image,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-29,YouTube,Neutral,Bandung,1642,Text,@genzfoodie | FrostiQ,Collab
+2024-02-25,YouTube,Positive,Yogyakarta,11468,Text,@snackattack | FrostiQ,Behind the Scenes
+2024-02-07,TikTok,Positive,Jakarta,17402,Video,@kulinerhits | FrostiQ,Behind the Scenes
+2024-02-29,TikTok,Positive,Yogyakarta,17497,Carousel,@drinkculture | FrostiQ,Product Launch
+2024-02-14,Instagram,Positive,Makassar,6247,Video,@kulinerhits | FrostiQ,Product Launch
+2024-02-11,TikTok,Neutral,Medan,19273,Video,@tastebuds.id | FrostiQ,Behind the Scenes
+2024-02-07,YouTube,Neutral,Makassar,15238,Text,@snackattack | FrostiQ,Review
+2024-02-26,Instagram,Positive,Surabaya,6011,Text,@genzfoodie | FrostiQ,Promo
+2024-02-10,TikTok,Neutral,Medan,10671,Carousel,@snackattack | FrostiQ,Review
+2024-02-20,Instagram,Positive,Medan,1534,Video,@snackattack | FrostiQ,Review
+2024-02-01,YouTube,Positive,Medan,1145,Text,@snackattack | FrostiQ,Collab
+2024-02-21,TikTok,Positive,Surabaya,14311,Video,@drinkculture | FrostiQ,Promo
+2024-02-03,Instagram,Positive,Bandung,10393,Video,@tastebuds.id | FrostiQ,Collab
+2024-02-19,X/Twitter,Positive,Medan,12176,Text,@genzfoodie | FrostiQ,Promo
+2024-02-21,TikTok,Positive,Jakarta,19343,Text,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-18,YouTube,Neutral,Medan,16319,Text,@kulinerhits | FrostiQ,Review
+2024-02-12,X/Twitter,Neutral,Surabaya,17861,Text,@tastebuds.id | FrostiQ,Promo
+2024-02-27,TikTok,Positive,Makassar,15383,Video,@drinkculture | FrostiQ,Product Launch
+2024-02-16,Instagram,Negative,Medan,12373,Video,@genzfoodie | FrostiQ,Behind the Scenes
+2024-02-24,TikTok,Positive,Surabaya,2276,Text,@snackattack | FrostiQ,Behind the Scenes
+2024-02-25,YouTube,Negative,Surabaya,10872,Text,@drinkculture | FrostiQ,Behind the Scenes
+2024-02-26,TikTok,Neutral,Medan,10872,Image,@tastebuds.id | FrostiQ,Collab
+2024-02-14,YouTube,Positive,Yogyakarta,15278,Image,@genzfoodie | FrostiQ,Collab
+2024-03-01,YouTube,Positive,Bandung,9134,Text,@genzfoodie | FrostiQ,Review
+2024-02-08,X/Twitter,Neutral,Makassar,11752,Image,@tastebuds.id | FrostiQ,Collab
+2024-02-05,YouTube,Negative,Bandung,13457,Video,@snackattack | FrostiQ,Review
+2024-02-17,Instagram,Positive,Bandung,9451,Text,@genzfoodie | FrostiQ,Collab
+2024-02-02,X/Twitter,Positive,Medan,5444,Carousel,@genzfoodie | FrostiQ,Collab
+2024-03-02,Instagram,Neutral,Jakarta,7184,Image,@tastebuds.id | FrostiQ,Product Launch
+2024-02-20,TikTok,Negative,Jakarta,10691,Video,@kulinerhits | FrostiQ,Promo
+2024-02-25,TikTok,Positive,Jakarta,5960,Carousel,@snackattack | FrostiQ,Product Launch
+2024-02-26,X/Twitter,Positive,Jakarta,15844,Video,@drinkculture | FrostiQ,Collab
+2024-02-22,X/Twitter,Neutral,Jakarta,13794,Video,@snackattack | FrostiQ,Collab
+2024-02-21,TikTok,Positive,Jakarta,15049,Carousel,@genzfoodie | FrostiQ,Collab
+2024-02-18,Instagram,Positive,Medan,7556,Text,@genzfoodie | FrostiQ,Product Launch
+2024-02-14,TikTok,Positive,Denpasar,2353,Video,@snackattack | FrostiQ,Promo
+2024-02-28,TikTok,Positive,Bandung,16322,Image,@drinkculture | FrostiQ,Promo
